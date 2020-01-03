@@ -28,6 +28,8 @@ namespace calcPrateleira {
 
             Console.WriteLine("\nEspaço entre as prateleiras = " + total.ToString("F1", CultureInfo.InvariantCulture));
 
+            Console.WriteLine("Fim da execução: ");
+            Console.ReadLine();
         }
     }
 }
