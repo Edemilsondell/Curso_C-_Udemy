@@ -1,0 +1,11 @@
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\bin\Debug\netcoreapp3.1\calcPrateleira.exe
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\bin\Debug\netcoreapp3.1\calcPrateleira.deps.json
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\bin\Debug\netcoreapp3.1\calcPrateleira.runtimeconfig.json
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\bin\Debug\netcoreapp3.1\calcPrateleira.runtimeconfig.dev.json
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\bin\Debug\netcoreapp3.1\calcPrateleira.dll
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\bin\Debug\netcoreapp3.1\calcPrateleira.pdb
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\obj\Debug\netcoreapp3.1\calcPrateleira.csprojAssemblyReference.cache
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\obj\Debug\netcoreapp3.1\calcPrateleira.AssemblyInfoInputs.cache
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\obj\Debug\netcoreapp3.1\calcPrateleira.AssemblyInfo.cs
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\obj\Debug\netcoreapp3.1\calcPrateleira.dll
+E:\Udemy_CursoC#\Projetos_Obj\calcPrateleira\calcPrateleira\obj\Debug\netcoreapp3.1\calcPrateleira.pdb
